@@ -1,0 +1,99 @@
+INSTALL CODERUNNER EXTENSION TO RUN THE JS FILE(OR USE NODE FILENAME.JS)
+
+export import es6 native modules export import features
+https://www.sitepoint.com/using-es-modules/
+
+Ecma script
+es6 feature https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+
+to import automatically
+ extension INSTALL Name: JS Relative Import
+Id: romulosantos.jsrelativeimport
+Description: Import JS files using a tree view
+Version: 1.0.8
+Publisher: romulosantos
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=romulosantos.jsrelativeimport
+
+square boxes of 64 with white black colors
+[
+  [
+    { color: 'white', id: 'a8', piece: null },
+    { color: 'black', id: 'b8', piece: null },
+    { color: 'white', id: 'c8', piece: null },
+    { color: 'black', id: 'd8', piece: null },
+    { color: 'white', id: 'e8', piece: null },
+    { color: 'black', id: 'f8', piece: null },
+    { color: 'white', id: 'g8', piece: null },
+    { color: 'black', id: 'h8', piece: null }
+  ],
+  [
+    { color: 'white', id: 'a8', piece: null },
+    { color: 'black', id: 'b8', piece: null },
+    { color: 'white', id: 'c8', piece: null },
+    { color: 'black', id: 'd8', piece: null },
+    { color: 'white', id: 'e8', piece: null },
+    { color: 'black', id: 'f8', piece: null },
+    { color: 'white', id: 'g8', piece: null },
+    { color: 'black', id: 'h8', piece: null }
+  ],
+  [
+    { color: 'white', id: 'a8', piece: null },
+    { color: 'black', id: 'b8', piece: null },
+    { color: 'white', id: 'c8', piece: null },
+    { color: 'black', id: 'd8', piece: null },
+    { color: 'white', id: 'e8', piece: null },
+    { color: 'black', id: 'f8', piece: null },
+    { color: 'white', id: 'g8', piece: null },
+    { color: 'black', id: 'h8', piece: null }
+  ],
+  [
+    { color: 'white', id: 'a8', piece: null },
+    { color: 'black', id: 'b8', piece: null },
+    { color: 'white', id: 'c8', piece: null },
+    { color: 'black', id: 'd8', piece: null },
+    { color: 'white', id: 'e8', piece: null },
+    { color: 'black', id: 'f8', piece: null },
+    { color: 'white', id: 'g8', piece: null },
+    { color: 'black', id: 'h8', piece: null }
+  ],
+  [
+    { color: 'white', id: 'a8', piece: null },
+    { color: 'black', id: 'b8', piece: null },
+    { color: 'white', id: 'c8', piece: null },
+    { color: 'black', id: 'd8', piece: null },
+    { color: 'white', id: 'e8', piece: null },
+    { color: 'black', id: 'f8', piece: null },
+    { color: 'white', id: 'g8', piece: null },
+    { color: 'black', id: 'h8', piece: null }
+  ],
+  [
+    { color: 'white', id: 'a8', piece: null },
+    { color: 'black', id: 'b8', piece: null },
+    { color: 'white', id: 'c8', piece: null },
+    { color: 'black', id: 'd8', piece: null },
+    { color: 'white', id: 'e8', piece: null },
+    { color: 'black', id: 'f8', piece: null },
+    { color: 'white', id: 'g8', piece: null },
+    { color: 'black', id: 'h8', piece: null }
+  ],
+  [
+    { color: 'white', id: 'a8', piece: null },
+    { color: 'black', id: 'b8', piece: null },
+    { color: 'white', id: 'c8', piece: null },
+    { color: 'black', id: 'd8', piece: null },
+    { color: 'white', id: 'e8', piece: null },
+    { color: 'black', id: 'f8', piece: null },
+    { color: 'white', id: 'g8', piece: null },
+    { color: 'black', id: 'h8', piece: null }
+  ],
+  [
+    { color: 'white', id: 'a8', piece: null },
+    { color: 'black', id: 'b8', piece: null },
+    { color: 'white', id: 'c8', piece: null },
+    { color: 'black', id: 'd8', piece: null },
+    { color: 'white', id: 'e8', piece: null },
+    { color: 'black', id: 'f8', piece: null },
+    { color: 'white', id: 'g8', piece: null },
+    { color: 'black', id: 'h8', piece: null }
+  ]
+]
